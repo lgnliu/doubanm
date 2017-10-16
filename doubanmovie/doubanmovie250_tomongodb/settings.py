@@ -11,7 +11,7 @@ from scrapy.settings.default_settings import LOG_LEVEL
 #     http://scrapy.readthedocs.org/en/latest/topics/spider-middleware.html
 
 LOG_FILE = 'douban.log'
-# LOG_LEVEL = 'DEBUG'
+LOG_LEVEL = 'DEBUG'
 
 BOT_NAME = 'doubanmovie250_tomongodb'
 
